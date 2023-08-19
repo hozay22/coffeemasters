@@ -33,7 +33,7 @@ body {
     margin: 20px;
 }
 
-.order-container {
+.order {
     padding: 15px;
     display: grid;
     grid-template-columns: 1fr 7fr 1fr;
@@ -75,7 +75,7 @@ p {
 
 .page {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
 }
 
 .example-group {
